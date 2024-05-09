@@ -1,0 +1,7 @@
+tensorflow
+numpy
+matplotlib.pyplot (as plt)
+PIL (Pillow)
+tqdm
+opencv-python (cv2)
+json
